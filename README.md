@@ -12,7 +12,7 @@ Executa o aplicativo no modo de desenvolvimento.
  
  ## Tecnologias utilizadas:
 
-* [React]([https://reactjs.org/]())
+* [React](https://reactjs.org/)
 * [Bootstrap](https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/)
 * [Fortawesome](https://fortawesome.com/)
 * [Tippyjs](https://tippyjs.bootcss.com/)
