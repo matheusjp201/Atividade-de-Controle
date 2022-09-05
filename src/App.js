@@ -15,6 +15,10 @@ let initialState = [
     id: 3,
     nome: 'Estudar React Native',
   },
+  {
+    id: 4,
+    nome: 'Estudar Next',
+  }
 ];
 
 function App() {
@@ -27,6 +31,7 @@ function App() {
       nome: document.getElementById('nome').value,
     };
     setAtividades([...atividades, { ...atividade }]);
+    
   }
 
   return (
