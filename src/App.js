@@ -11,6 +11,10 @@ let initialState = [
     id: 2,
     nome: 'Estudar Node',
   },
+  {
+    id: 3,
+    nome: 'Estudar React Native',
+  },
 ];
 
 function App() {
